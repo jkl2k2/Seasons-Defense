@@ -1,28 +1,15 @@
 # Seasons Defense
 
----
+A Unity 3D game based on Atari Missile Command. Click to shoot the raining missiles and protect your turrets and cities as you move through the seasons!
 
-# Contribution Instructions
+Built from scratch in 4 weeks in a "game jam" style.
 
-## Scenes
+Developed by Conlyn Pattison, Joshua Lomelin, Miguel A. Francisco, Jesus Morfin, and Rakery Cheng. 
 
-- Located in */Seasons\ Defense/Assets/Scenes*
-- You may edit a scene which you claim as your own
-	- Naming convention: *FirstnameScene*
-- Pull content from others' scenes as you see fit
-- Creating a prefab for each object in the scene helps to reduce conflicts
-	- Scene will reference the prefab file rather than the object itself
+--
 
-## Prefabs
+Builds available for Windows and Mac:
 
-- Please make clear which prefabs you are utilizing
-- Highly circulated prefabs should only be changed when absolutely necessary
-- If changes to a claimed prefab are desired, please post a card on the Trello with the requested changes
+WINDOWS - https://drive.google.com/drive/folders/1gWEFhI2VTkIw8NJ-wKu8E9wJPbMGU7MF?usp=sharing
 
-## Reviewing / Merging Requests
-
-- All files should be proof read and easy to follow without needing to reach out for clarity
-- Conventions for naming variables, functions, classes, etc. should be followed as Unity and Rider/VS state
-	- If conflicts arise, reach out and we will decide on a convention for the project
-- Unnecessary files or objects should not be committed with a PR, and a request will be made to delete them
-- Keep requests related to the task being completed and try not to deviate too far from that goal to maintain clarity and team awareness
+MAC - https://drive.google.com/drive/folders/1zUUicqpFDDCluuxj-BGaYQDc98Ys_7sh?usp=sharing
